@@ -1,5 +1,15 @@
-.navbar navbar-static-top {
+.skin-blue .main-header .navbar {
     background-color: #48CCD8;
 }
 
+.skin-blue .main-header .logo {
+    background-color: #48CCD8;
+}
 
+button {
+    margin-left: 5px;
+}
+
+.table-actions {
+    width: 150px;
+}
